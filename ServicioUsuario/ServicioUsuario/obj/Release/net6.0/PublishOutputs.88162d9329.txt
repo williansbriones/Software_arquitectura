@@ -1,0 +1,11 @@
+C:\Users\willi\OneDrive\Escritorio\arquitectura\ServicioUsuario\ServicioUsuario\out\ServicioUsuario.exe
+C:\Users\willi\OneDrive\Escritorio\arquitectura\ServicioUsuario\ServicioUsuario\out\appsettings.Development.json
+C:\Users\willi\OneDrive\Escritorio\arquitectura\ServicioUsuario\ServicioUsuario\out\appsettings.json
+C:\Users\willi\OneDrive\Escritorio\arquitectura\ServicioUsuario\ServicioUsuario\out\ServicioUsuario.dll
+C:\Users\willi\OneDrive\Escritorio\arquitectura\ServicioUsuario\ServicioUsuario\out\ServicioUsuario.deps.json
+C:\Users\willi\OneDrive\Escritorio\arquitectura\ServicioUsuario\ServicioUsuario\out\ServicioUsuario.runtimeconfig.json
+C:\Users\willi\OneDrive\Escritorio\arquitectura\ServicioUsuario\ServicioUsuario\out\ServicioUsuario.pdb
+C:\Users\willi\OneDrive\Escritorio\arquitectura\ServicioUsuario\ServicioUsuario\out\Microsoft.OpenApi.dll
+C:\Users\willi\OneDrive\Escritorio\arquitectura\ServicioUsuario\ServicioUsuario\out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\willi\OneDrive\Escritorio\arquitectura\ServicioUsuario\ServicioUsuario\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\willi\OneDrive\Escritorio\arquitectura\ServicioUsuario\ServicioUsuario\out\Swashbuckle.AspNetCore.SwaggerUI.dll

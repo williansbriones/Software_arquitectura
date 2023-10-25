@@ -1,0 +1,28 @@
+version: '3.9'
+
+services:
+  servicio_nginx:
+    build: 
+      context: C:/Users/willi/OneDrive/Escritorio/arquitectura/reversproxy/conf.d
+      dockerfile: Dockerfile
+    ports:
+      - "443:443"
+    networks:
+      mired:
+        ipv4_address: 172.18.0.5
+  servicio_usuario:
+    build: 
+      context: C:\Users\willi\OneDrive\Escritorio\arquitectura\ServicioUsuario\ServicioUsuario
+      dockerfile: DockerFile
+    ports:
+      - "7220:80"
+    networks: 
+      mired:
+        ipv4_address: 172.18.0.2
+networks:
+  mired:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: "172.18.0.0/16"
+          gateway: "172.18.0.1"
