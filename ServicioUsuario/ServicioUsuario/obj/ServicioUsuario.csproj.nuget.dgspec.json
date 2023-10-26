@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\willi\\OneDrive\\Escritorio\\arquitectura\\ServicioUsuario\\ServicioUsuario\\ServicioUsuario.csproj": {}
+    "C:\\Users\\willi\\OneDrive\\Escritorio\\back arquitectura\\ServicioUsuario\\ServicioUsuario\\ServicioUsuario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\willi\\OneDrive\\Escritorio\\arquitectura\\ServicioUsuario\\ServicioUsuario\\ServicioUsuario.csproj": {
+    "C:\\Users\\willi\\OneDrive\\Escritorio\\back arquitectura\\ServicioUsuario\\ServicioUsuario\\ServicioUsuario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\willi\\OneDrive\\Escritorio\\arquitectura\\ServicioUsuario\\ServicioUsuario\\ServicioUsuario.csproj",
+        "projectUniqueName": "C:\\Users\\willi\\OneDrive\\Escritorio\\back arquitectura\\ServicioUsuario\\ServicioUsuario\\ServicioUsuario.csproj",
         "projectName": "ServicioUsuario",
-        "projectPath": "C:\\Users\\willi\\OneDrive\\Escritorio\\arquitectura\\ServicioUsuario\\ServicioUsuario\\ServicioUsuario.csproj",
+        "projectPath": "C:\\Users\\willi\\OneDrive\\Escritorio\\back arquitectura\\ServicioUsuario\\ServicioUsuario\\ServicioUsuario.csproj",
         "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\willi\\OneDrive\\Escritorio\\arquitectura\\ServicioUsuario\\ServicioUsuario\\obj\\",
+        "outputPath": "C:\\Users\\willi\\OneDrive\\Escritorio\\back arquitectura\\ServicioUsuario\\ServicioUsuario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -41,16 +41,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Authentication.JwtBearer": {
-              "target": "Package",
-              "version": "[6.0.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[7.0.13, )"
-            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
